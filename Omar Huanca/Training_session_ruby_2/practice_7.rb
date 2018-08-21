@@ -1,7 +1,7 @@
 def convert_seconds_in_minutes_and_hours(seconds)
-	seconds_in_minutes = seconds / 60	
-	seconds_in_hours = seconds / 60 / 60 
-	return seconds_in_minutes, seconds_in_hours
+  seconds_in_minutes = seconds / 60
+  seconds_in_hours = seconds / 60 / 60
+  return seconds_in_minutes, seconds_in_hours
 end
 
 puts "Enter seconds to convert in minute and hours: "

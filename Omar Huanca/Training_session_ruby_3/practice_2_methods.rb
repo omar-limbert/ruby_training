@@ -1,0 +1,7 @@
+class Example_of_class
+  def first_method
+    puts 'My first instance method'
+  end
+end
+
+Example_of_class.new.first_method # " My first instance method"
