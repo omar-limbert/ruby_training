@@ -1,6 +1,6 @@
-def passenger(passenger_name, destination_city = "CBBA", ticket_price)	
-	ticket_price /= 6.96
-	puts "#{passenger_name}, #{destination_city} ,#{ticket_price}"
+def passenger(passenger_name, destination_city = "CBBA", ticket_price)
+  ticket_price /= 6.96
+  puts "#{passenger_name}, #{destination_city} ,#{ticket_price}"
 end
 
 puts "Enter passenger name:"
@@ -13,5 +13,3 @@ price = gets.chomp.to_f
 puts passenger name, destination, price
 
 puts passenger name, price
-
-#Review second default value

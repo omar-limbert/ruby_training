@@ -1,5 +1,5 @@
-def count(a=1, b=2, c=3)
-	puts "#{a}, #{b}, #{c}"
+def count(a = 1, b = 2, c = 3)
+  puts "#{a}, #{b}, #{c}"
 end
 
 count

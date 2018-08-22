@@ -1,14 +1,14 @@
 def multiply(a, b)
-	product = a * b
-	return product
+  product = a * b
+  return product
 end
 
 def multiply_1(a, b)
-	product = a * b	
+  product = a * b
 end
 
 def multiply_2(a, b)
-	a * b	
+  a * b
 end
 
 puts multiply(2, 3)

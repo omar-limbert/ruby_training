@@ -1,13 +1,13 @@
 def seconds_to_minutes_and_hours(seconds)
-	seconds_to_minutes = seconds / 60	
-	seconds_to_hours = seconds / 60 / 60 
-	return seconds_to_minutes, seconds_to_hours
+  seconds_to_minutes = seconds / 60
+  seconds_to_hours = seconds / 60 / 60
+  return seconds_to_minutes, seconds_to_hours
 end
 
 def convert_bs_to_sus_and_e(bs_coin)
-	bs_to_sus = bs_coin / 6.96
-	bs_to_e = bs_coin / 10.2654
-	return bs_to_sus, bs_to_e
+  bs_to_sus = bs_coin / 6.96
+  bs_to_e = bs_coin / 10.2654
+  return bs_to_sus, bs_to_e
 end
 
 puts "Enter a seconds value: "

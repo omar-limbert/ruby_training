@@ -1,5 +1,5 @@
 def welcome(name)
-	puts "Welcome #{name}"
+  puts "Welcome #{name}"
 end
 
 welcome("Jin")
