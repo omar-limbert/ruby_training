@@ -1,11 +1,11 @@
 puts "I will now count my fruits:"
-bananas = 25 +30 / 6
-apples = 100 - 25 *3 % 4
+bananas = 25 + 30 / 6
+apples = 100 - 25 * 3 % 4
 puts "Bananas: #{bananas}"
 puts "Apples: #{apples}"
 
 puts "Now I will count the potato: "
-potato = 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6 
+potato = 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
 puts "#{potato}"
 
 puts "Is it true that  3 + 2 < 5 - 7?"

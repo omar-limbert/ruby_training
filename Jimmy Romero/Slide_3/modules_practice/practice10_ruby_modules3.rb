@@ -1,4 +1,4 @@
-require_relative '../Slide_3/ruby_modules1'
+require_relative 'practice10_ruby_modules1'
 require_relative 'practice10_ruby_modules2.rb'
 
 class Practice

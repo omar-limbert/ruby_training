@@ -1,7 +1,7 @@
 seconds = 86400
 
 secondsInMinutes = seconds / 60
-secondToHours = seconds / 60 / 60 
+secondToHours = seconds / 60 / 60
 secondsToDays = seconds / 24 / 60 / 60
 
 puts "Seconds: #{seconds}"
